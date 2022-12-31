@@ -2,7 +2,7 @@ name: Main Workflow
 on: [workflow_dispatch]
 jobs:
    print:
-   runs-on: macOS-Ventura beta 13.2
+   runs-on: macOS-latest
    steps:
       -name: Print to console
       run: echo Hello GH Actions! 
