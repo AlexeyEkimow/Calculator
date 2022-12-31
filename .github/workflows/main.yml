@@ -2,7 +2,7 @@ name: Main Workflow
 on: [workflow_dispatch]
 jobs:
    print:
-   runs-on: macOS
+   runs-on: macOS-13
    steps:
       -name: Print to console
       run: echo Hello GH Actions! 
