@@ -55,8 +55,15 @@ Simple SwiftUI App
 
 
 
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/91189404/222978532-939e0c3d-31b9-43a8-b726-dd669b86141a.gif)
+
+
+<img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
 
 I recreated, as close as I can, the Apple Calculator, following some of the best practices to organize and maintain our views.
 
